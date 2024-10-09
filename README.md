@@ -59,7 +59,7 @@ This application provides a real-time chat platform that integrates with your ex
 ### 1. Clone the Repository
 
 ```bash
-git clone https://your-repo-url.git
+git clone [https://your-repo-url.git](https://github.com/badboysm890/OctogentServer.git)
 cd your-repo-directory
 ```
 
